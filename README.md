@@ -1,5 +1,6 @@
 # University-Success-Analysis
-This is my capstone project
+This is my capstone project.
+
 Compare university rankings across different systems, assess the impact of ranking criteria on university positions, and analyze changes in university metrics over time. Utilize SQL and Excel for data aggregation and for EDA. Create a Power BI dashboard to provide a comprehensive view of university rankings.
 
 Dataset Description
